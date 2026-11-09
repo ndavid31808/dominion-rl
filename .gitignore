@@ -1,0 +1,11 @@
+runs/
+logs/
+*.out
+*.log
+*.zip
+__pycache__/
+.pytest_cache/
+.DS_Store
+.venv/
+FableScript/
+train3/
